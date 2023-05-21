@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=application&color=blue&style=for-the-badge&logo=react"/>
 
-  <img src="https://img.shields.io/static/v1?label=next&message=application&color=blue&style=for-the-badge&logo=next"/>
+  <img src="https://img.shields.io/static/v1?label=nextjs&message=application&color=blue&style=for-the-badge&logo=nextjs"/>
 
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
  
